@@ -7,4 +7,5 @@ group :jekyll_plugins do
   gem 'jekyll-watch'
   gem 'kramdown'
   gem 'rouge'
+  gem "minima", "~> 2.0"
 end

@@ -32,6 +32,8 @@ GEM
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9.7)
     mercenary (0.3.6)
+    minima (2.1.1)
+      jekyll (~> 3.3)
     multipart-post (2.0.0)
     octokit (4.6.2)
       sawyer (~> 0.8.0, >= 0.5.3)
@@ -57,7 +59,8 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-watch
   kramdown
+  minima (~> 2.0)
   rouge
 
 BUNDLED WITH
-   1.14.6
+   1.17.2
