@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: GANMA-BOLG
+title: Pornsite
 email: ae13013i@gmail.com
 description: I'm ganma, a researcher from Tokyo, Japan.
   My research interests include machine learning,network engineering and
@@ -26,7 +26,7 @@ url: " https://iwama-takahiko.github.io/markdown_blog/." # the base hostname & p
 twitter_username: ganma
 twitter_url: "https://twitter.com/ganma_beyond"
 github_username:  iwama-takahiko
-github_url: "https://github.com/iwama-takahiko"
+github_url: "https://github.com/ganma0721"
 
 # Build settings
 markdown: kramdown
