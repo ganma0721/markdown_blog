@@ -5,7 +5,7 @@ This is a simple personal material theme, best suited for personal authors, prog
 ### Demo
 * [https://codeasashu.github.io/hcz-jekyll-blog](https://codeasashu.github.io/hcz-jekyll-blog/)
 ### My site
-* [https://iwama-takahiko.github.io/markdown_blog/](https://iwama-takahiko.github.io/markdown_blog/)
+* [https://ganma0721.github.io/markdown_blog/](https://iwama-takahiko.github.io/markdown_blog/)
 #### Feature
 
 * Sitemap and XML Feed
